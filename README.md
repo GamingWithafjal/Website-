@@ -1,7 +1,9 @@
 # Free Static HTML Website Templates
-Free Static HTML Email templates created using the [Slides Website Builder](https://designmodo.com/slides/).
+# test commit 1 new staging
+# test commit 1 new development
+ Free Static HTML Email templates created using the [Slides Website Builder](https://designmodo.com/slides/).
 
-Here are a few [website templates](https://designmodo.com/website-templates/) you can use for free.
+#Here are a few [website templates](https://designmodo.com/website-templates/) you can use for free.
 
 **Screenshots - Download the Templates to See the Animations**
 
@@ -16,13 +18,13 @@ Here are a few [website templates](https://designmodo.com/website-templates/) yo
 
 ## [Slides: A Static Website Builder](https://designmodo.com/slides/)
 
-By the look of the website, you can tell a lot about business, service or persona. Generally, design speaks more than a thousand words. The choice of colors, fonts or photos will determine whether you are worth someone´s attention. Also, it will either help your copy stand out or destroy it.
+#By the look of the website, you can tell a lot about business, service or persona. Generally, design speaks more than a thousand words. The choice of colors, fonts or photos will determine whether you are worth someone´s attention. Also, it will either help your copy stand out or destroy it.
 
-What makes one website superior is the right combination of content and design. Being different, unique is always a plus, which is why you need proper tools to make it happen. **Slides is a static website builder that will help you make the difference** and become attractive to the eye of your preferred audience.
+#What makes one website superior is the right combination of content and design. Being different, unique is always a plus, which is why you need proper tools to make it happen. **Slides is a static website builder that will help you make the difference** and become attractive to the eye of your preferred audience.
 
 **Slides – Developer´s Little Helper**
 
-It is always useful to have help while creating a website from scratch. Working with proper apps can save your time and energy. Actually, it can help you channel your ideas properly and turn them into wanted, final result.
+#It is always useful to have help while creating a website from scratch. Working with proper apps can save your time and energy. Actually, it can help you channel your ideas properly and turn them into wanted, final result.
 
 ![enter image description here](https://cdn-images-1.medium.com/max/1600/1*-4hGnCc58E-7E8YCEILNrQ.gif)
 
